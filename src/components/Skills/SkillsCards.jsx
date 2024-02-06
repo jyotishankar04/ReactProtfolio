@@ -63,7 +63,7 @@ function SkillsCards(props) {
       break;
     case "java":
       icon = (
-        <FaJava className="text-[100px]  text-gray-800 group-hover:scale-110 transition-transform duration-300 cursor-pointer ease-in" />
+        <FaJava className="text-[100px]  text-gray-800 group-hover:scale-110 transition-transform duration-300  cursor-pointer ease-in" />
       );
       break;
   }
