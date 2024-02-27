@@ -101,10 +101,10 @@ function Contact() {
             />
           </form>
         </div>
-        <div className=" flex  justify-center mt-10 m-[20px]">
+        <div className=" flex  justify-center mt-10  m-[20px]">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2667.9931557638965!2d86.83762334834381!3d21.440732424837346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1c61e716274ee3%3A0x6925025cf86416d7!2sPatra%20variety%20store!5e0!3m2!1sen!2sin!4v1707245256721!5m2!1sen!2sin"
-            className="border-none w-[90%] h-[500px]"
+            className="rounded-lg border-none w-[90%] h-[500px]"
             allowFullScreen="true"
             aria-hidden="false"
             tabIndex="0"
