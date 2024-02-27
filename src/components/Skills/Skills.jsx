@@ -1,6 +1,6 @@
 import React from "react";
 import ReactSkillbar from "react-skillbars";
-import SkillsCards from "./skillsCards";
+import SkillsCards from "./SkillsCards";
 function Skills(props) {
   const skillsData = [
     {
